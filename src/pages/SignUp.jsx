@@ -1,8 +1,5 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { useState } from 'react'
-import { useHistory } from 'react-router-dom';
-
 export const SignUp = () => {
   
 
